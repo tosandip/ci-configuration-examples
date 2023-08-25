@@ -33,6 +33,7 @@ jobs:
         uses: matlab-actions/run-tests@v1
         with:
           source-folder: code
+          source-folder: samplecode
 
       # You can use "run-command" to execute custom MATLAB scripts, functions, or statements.
       #- name: Run custom testing procedure
