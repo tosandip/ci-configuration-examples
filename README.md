@@ -1,6 +1,6 @@
-| **GitHub<sup>&reg;</sup>&nbsp;Actions** |
-|:--------------------------:|
-| [![MATLAB](https://github.com/tosandip/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/tosandip/ci-configuration-examples/actions/workflows/ci.yml) <br><br> |
+| **GitHub<sup>&reg;</sup>&nbsp;Actions** | MATLAB Code-coverage|
+|:--------------------------:|:--------------------------:|
+| [![MATLAB](https://github.com/tosandip/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/tosandip/ci-configuration-examples/actions/workflows/ci.yml) | [![codecov](https://codecov.io/gh/tosandip/ci-configuration-examples/graph/badge.svg?token=6ENJABG34Q)](https://codecov.io/gh/tosandip/ci-configuration-examples) |
 
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
