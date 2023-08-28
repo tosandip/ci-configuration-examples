@@ -29,6 +29,7 @@ jobs:
         uses: matlab-actions/setup-matlab@v1
 
       # Runs a set of commands using the runners shell
+      # Did setup an account https://app.codecov.io/gh/tosandip to ensure codecov data is uploaded there.
       - name: Run all tests
         uses: matlab-actions/run-tests@v1
         with:
